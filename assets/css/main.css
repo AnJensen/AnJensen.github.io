@@ -3109,7 +3109,7 @@ input, select, textarea {
 	
 	.booking-form .submit-btn {
 		color: #101113;
-		background-color: #ffc001;
+		background-color: darkgray;
 		font-weight: 700;
 		height: 50px;
 		border: none;
